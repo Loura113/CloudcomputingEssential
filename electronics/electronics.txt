@@ -1,0 +1,12 @@
+product ID:101
+name:smartphone
+stock level:50
+
+product ID:102
+name:laptop
+stock level:46
+
+product ID:103
+name:airpods
+stock level:22
+

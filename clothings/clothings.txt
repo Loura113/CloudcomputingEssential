@@ -1,0 +1,12 @@
+product ID:104
+name:jacket
+stock level:30
+
+product ID:105
+name:jean
+stock level:45
+
+product ID:106
+name:hoodie
+stock level:66
+

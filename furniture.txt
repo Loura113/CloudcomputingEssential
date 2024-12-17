@@ -1,0 +1,11 @@
+Product ID:107
+Name:table
+Stock level:76
+
+Product ID:108
+Name:chair
+Stock level:81
+
+Product ID:109
+Name:sofa
+Stock level:21
